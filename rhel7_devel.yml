@@ -77,7 +77,7 @@ dependencies:
   - requests
   - scikit-learn
   - scikit-image
-  - scipy>=1.10.1
+  - scipy
   - seaborn
   - six
   - sqlite
